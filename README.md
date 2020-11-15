@@ -1,2 +1,2 @@
-# deliverlan
+# DeliverLAN
 Deliver on LAN
